@@ -1,0 +1,164 @@
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+
+}
+/* ************************start rose section************************ */
+.rose-section{
+    background-image: url(othersicon/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.rose-section .flexible{
+    display: flex;
+    text-align: justify;
+    padding-left: 5%;
+    margin-bottom: 10%;
+}
+.half-width-rose{
+    width: 50%;
+}
+
+.half-width-rose a{
+    font-family: cursive;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-image: radial-gradient(rgb(255, 136, 115), rgb(255, 123, 185), rgb(238, 113, 255));
+}
+#rose-color{
+    color: rgb(224, 41, 41);
+}
+.half-width-rose img{
+    width: 60%;
+    padding-left: 25%;
+}
+/* **********************end rose section*************************** */
+
+/*///////////////////// start water-lily section /////////////////////*/
+.water-lily-section{
+    background-image: url(othersicon/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.half-width-water-lily{
+    width: 50%;
+}
+.water-lily-section .flexible{
+    display: flex;
+    text-align: justify;
+    padding-right: 5%;
+    margin-bottom: 10%;
+}
+
+.half-width-water-lily a{
+    font-family: cursive;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-image: radial-gradient(rgb(255, 136, 115), rgb(255, 123, 185), rgb(238, 113, 255));
+}
+#water-lily-color{
+    color: rgb(255, 50, 176);
+}
+.half-width-water-lily img{
+    width: 65%;
+    padding-right:5%;
+    padding-left: 5%;
+}
+/* /////////////////end water lily section//////////////////////// */
+ 
+/**************** start sun flower section **************************/
+
+.sun-flower-section{
+    background-image: url(othersicon/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+
+}
+
+.sun-flower-section .flexible{
+    display: flex;
+    text-align: justify;
+    padding-left: 5%;
+    margin-bottom: 10%;
+}
+.half-width-sun-flower{
+    width: 50%;
+}
+
+.half-width-sun-flower a{
+    font-family: cursive;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-image: radial-gradient(rgb(255, 136, 115), rgb(255, 123, 185), rgb(238, 113, 255));
+}
+#sun-flower-color{
+    color: rgb(206, 45, 255);
+}
+.half-width-sun-flower img{
+    width: 60%;
+    padding-left: 25%;
+}
+
+/********************* end sun flower section************************/
+.types-of-flowers{
+    margin-bottom: 50px;
+}
+.types-of-flowers h1{
+ font-family: cursive;
+ font-size: 50px;
+ font-weight: 700;
+
+}
+.defination-flexible{
+    display: flex;
+}
+.defination-flexible h2{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.self-style{
+    width: 50%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 15px 25px;
+    text-align: justify;
+    box-shadow: 2px 2px 20px rgb(121, 118, 118);
+    border-right: 5px solid;
+    border-bottom: 5px solid;
+    border-image:  linear-gradient(rgb(253, 100, 54), rgb(255, 51, 211)) 27;
+    
+}
+.cross-style{
+    width: 50%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 15px 25px;
+    text-align: justify;
+    box-shadow: 2px 2px 20px rgb(121, 118, 118);
+    border-right: 5px solid;
+    border-bottom: 5px solid;
+    border-image:  linear-gradient(rgb(253, 100, 54), rgb(255, 51, 211)) 27;
+}
+
+/* ********************* end flower defination **************** */
+
+footer p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+footer p span{
+    font-family: cursive;
+    text-shadow: 1px 1px 2px rgb(255, 118, 118);
+}
+ /* ********************** end footer *************************** */
